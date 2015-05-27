@@ -18,7 +18,7 @@
   "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#v0.8.0-rc.7",
-    "paper-icon-button": "Polymer/paper-icon-button#0.8-preview",
+    "paper-icon-button": "Polymer/paper-icon-button#0.9.2",
     "paper-header-panel": "PolymerElements/paper-header-panel#~0.8.2",
     "paper-drawer-panel": "PolymerElements/paper-drawer-panel#~0.8.1",
     "paper-menu": "PolymerElements/paper-menu#0.8-behaviors",
